@@ -31,5 +31,8 @@ documentation in English
 - Advanced computer skills
 
 ---
-
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
