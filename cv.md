@@ -72,3 +72,20 @@ createTree(calendar, data);
 
 ---
 
+### INTERSHIPS AND COURSES
+https://learn.javascript.ru/
+
+https://www.freecodecamp.org/learn/(not finished yet)
+
+https://www.codewars.com/users/mosk120(5kyu)
+
+https://www.w3schools.com/
+
+---
+### Languages
+- English - Upper-Intermediate
+- Polish - Advanced
+- Russian - Native
+---
+
+
