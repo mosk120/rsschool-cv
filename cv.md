@@ -5,10 +5,10 @@
 ---
 
 Mobile Phone: +48733231110
-Email: vladislav.petrusevich.uk@gmail.com
+Email: vladislav.petrusevich.uk@gmail.com.
 Linkedin:
-linkedin.com/in/władysław-pietrusiewicz
-Address: Warszawa, aleje Jerozolimskie 135,26
+linkedin.com/in/władysław-pietrusiewicz.
+Address: Warszawa, aleje Jerozolimskie 135,26.
 
 ---
 
