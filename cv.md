@@ -31,7 +31,7 @@ documentation in English
 - Advanced computer skills
 
 ---
-### last saved code in webstorm
+### Last saved code in webstorm
 ```
 let data = {
     "Рыбы": {
@@ -87,6 +87,10 @@ https://www.w3schools.com/
 - English - Upper-Intermediate
 - Polish - Advanced
 - Russian - Native
+My last language practice was in Netherlands
+I used to work in the UK for half of a year and 4 months in Netherlands where I used English on a daily basis and even some German and Dutch.
+I have finished  English courses in Warsaw and practised some English with my American teacher for a few months. I was practicing English with my foreign friends in Warsaw.
+
 ---
 
 
