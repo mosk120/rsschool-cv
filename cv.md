@@ -31,8 +31,44 @@ documentation in English
 - Advanced computer skills
 
 ---
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+```last saved code in webstorm
+let data = {
+    "Рыбы": {
+        "форель": {},
+        "лосось": {}
+    },
+
+    "Деревья": {
+        "Огромные": {
+            "секвойя": {},
+            "дуб": {}
+        },
+        "Цветковые": {
+            "яблоня": {},
+            "магнолия": {}
+        }
+    }
+};
+
+function createTree(container, obj) {
+    container.innerHTML = createTreeText(obj);
+}
+
+function createTreeText(obj) { // отдельная рекурсивная функция
+    let li = '';
+    let ul;
+    for (let key in obj) {
+        li += '<li>' + key + createTreeText(obj[key]) + '</li>';
+    }
+    if (li) {
+        ul = '<ul>' + li + '</ul>'
+    }
+    return ul || '';
+}
+
+
+createTree(calendar, data);
 ```
+
+---
 
