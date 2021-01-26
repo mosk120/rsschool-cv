@@ -13,3 +13,62 @@ linkedin.com/in/władysław-pietrusiewicz
 Address: Warszawa, aleje Jerozolimskie 135,26
 
 ---
+
+### SKILLS
+- Communication
+- Self-motivation
+- Active Listening
+- Quick Learning
+- HTML5
+- CSS3
+- Javascript
+- Salesforce.com
+- Apex Basic
+- Github
+- Reading and understanding
+documentation in English
+- Microsoft Office
+- Advanced computer skills
+
+---
+### Last saved code in webstorm
+```
+let data = {
+    "Рыбы": {
+        "форель": {},
+        "лосось": {}
+    },
+
+    "Деревья": {
+        "Огромные": {
+            "секвойя": {},
+            "дуб": {}
+        },
+        "Цветковые": {
+            "яблоня": {},
+            "магнолия": {}
+        }
+    }
+};
+
+function createTree(container, obj) {
+    container.innerHTML = createTreeText(obj);
+}
+
+function createTreeText(obj) { // отдельная рекурсивная функция
+    let li = '';
+    let ul;
+    for (let key in obj) {
+        li += '<li>' + key + createTreeText(obj[key]) + '</li>';
+    }
+    if (li) {
+        ul = '<ul>' + li + '</ul>'
+    }
+    return ul || '';
+}
+
+
+createTree(calendar, data);
+```
+
+---
